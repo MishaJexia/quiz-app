@@ -4,7 +4,7 @@ services:
   app:
     build:
       type: dockerfile
-      config: ./.runme/Dockerfile
+      config: ./runme/Dockerfile
     ports:
       - container: 8080
         public: 80
