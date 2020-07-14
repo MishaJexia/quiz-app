@@ -1,7 +1,4 @@
-<<<<<<< HEAD
-# quiz-app
-Simple react quiz app, to be improved
-=======
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). <br>
 See it here: [![Runme](https://runme.io/static/button.svg)](https://runme.io/run?app_id=590c2cc3-14a1-4177-a3d3-569f93aecda8)
 
@@ -70,5 +67,3 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 
 ### `npm run build` fails to minify
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
->>>>>>> 0ebb7b2575773a6a633de844edd7d0f5da25d5b2
