@@ -1,3 +1,6 @@
+<<<<<<< HEAD
+# quiz-app
+Simple react quiz app, to be improved
 <h2> Simple react quiz app, to be improved <h2>
 =======
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). <br>
